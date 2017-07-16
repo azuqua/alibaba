@@ -1,0 +1,18 @@
+{
+  "name": "ali-baba",
+  "version": "1.0.0",
+  "description": "Completely open oauth server designed for programmatic testing of oauth flow",
+  "main": "serve.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "austin brown <austin@azuqua.com> (http://www.azuqua.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.2",
+    "oauth2-server": "^2.4.1"
+  }
+}
